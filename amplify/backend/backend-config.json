@@ -1,0 +1,17 @@
+{
+	"auth": {
+		"predictionsappccc212ed": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"predictions": {
+		"identifyText33260e42": {
+			"providerPlugin": "awscloudformation",
+			"service": "RekognitionAndTextract",
+			"dependsOn": [],
+			"identifyType": "identifyText"
+		}
+	}
+}

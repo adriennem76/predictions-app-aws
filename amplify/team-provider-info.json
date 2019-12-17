@@ -1,0 +1,20 @@
+{
+    "predict": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-predictions-app-predict-121808-authRole",
+            "UnauthRoleArn": "arn:aws:iam::644302367208:role/amplify-predictions-app-predict-121808-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::644302367208:role/amplify-predictions-app-predict-121808-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-predictions-app-predict-121808-deployment",
+            "UnauthRoleName": "amplify-predictions-app-predict-121808-unauthRole",
+            "StackName": "amplify-predictions-app-predict-121808",
+            "StackId": "arn:aws:cloudformation:us-east-1:644302367208:stack/amplify-predictions-app-predict-121808/32cf6040-20f1-11ea-9541-0ab6cdd0d422",
+            "AmplifyAppId": "deddig1enw8oy"
+        },
+        "categories": {
+            "auth": {
+                "predictionsappccc212ed": {}
+            }
+        }
+    }
+}
